@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/cookierun/images/2/27/Cookie0063z03_shop_exhausted.png/revision/latest?cb=20180813205133" width="200" />
+  <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-alhaitham/sticker_1.png?f3e7aaf4dfa3f85e8ad5e7d664b832fe" width="200" />
 </p>
 
-
 <p align="center">
-     <a href="q"><strong>wip</strong> </a>
+  <a href="https://rentry.co/bearchaser">rentry</a>
+</p>
