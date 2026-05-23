@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://rentry.co/bearchaser">rentry</a>
+  <a href="https://rentry.co/fatnhairy">rentry</a>
 </p>
