@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-alhaitham/sticker_1.png?f3e7aaf4dfa3f85e8ad5e7d664b832fe" width="200" />
+  <img src="https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Starlight_Reverie_Avatar_Alhaitham.png/revision/latest/scale-to-width-down/1000?cb=20241027095849" width="200" />
 </p>
 
 <p align="center">
