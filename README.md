@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="">rentry</a>
+  <a href="">wip</a>
 </p>
